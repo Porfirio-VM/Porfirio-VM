@@ -12,6 +12,10 @@ I am currently in the ongoing process of becoming a web developer. my main focus
 **React.js:** I have basic notions about the correct use of react as well as the use of its hooks.
 
 ## some of my projects
--[Project 1: (https://rest-api-pjvm.netlify.app/)]
+-[Rest Country API: (https://rest-api-pjvm.netlify.app/)]
+-[Rock, paper, scissors game: (https://paper-rock-scissors-pjvm.netlify.app/)]
+-[Tip calculator: (https://tip-calculator-react-pjvm.netlify.app/)]
+
+if you want to see some of my other projects go to my repositories there you will find the url of the live sites
 
 ## Thank you for visiting my profile! I hope you find my project interesting.
